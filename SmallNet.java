@@ -22,7 +22,7 @@ import org.rspeer.script.Script;
 import org.rspeer.script.ScriptMeta;
 import org.rspeer.ui.Log;
 
-@ScriptMeta(desc = "Small net fishing and banking in Draynor Village", developer = "Codeblins", name = "FishFiris", version = 1.3)
+@ScriptMeta(desc = "Small net fishing and banking in Draynor Village", developer = "Codeblins", name = "SmallNet", version = 1.3)
 public class SmallNet extends Script implements RenderListener {
 
 	private static final Area DRAYNOR_FISH = Area.rectangular(3083, 3231, 3090, 3223);
